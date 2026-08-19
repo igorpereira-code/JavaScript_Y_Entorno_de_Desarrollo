@@ -38,16 +38,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d5e138cef029dff59e833490a39e63ae361a1116",
     "author": "Igorito27",
     "commit": {
       "date": "2026-08-19T02:54:46.000Z",
       "message": "Funcional",
-      "url": "https://github.com/igorpereira-code/JavaScript_Y_Entorno_de_Desarrollo/commit/HEAD"
+      "url": "https://github.com/igorpereira-code/JavaScript_Y_Entorno_de_Desarrollo/commit/d5e138cef029dff59e833490a39e63ae361a1116"
     },
     "stats": {
       "total": 2,
       "additions": 1,
+      "deletions": 1,
+      "date": "2026-08-19"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Igorito27",
+    "commit": {
+      "date": "2026-08-19T03:08:33.000Z",
+      "message": "Agregando multiplicación",
+      "url": "https://github.com/igorpereira-code/JavaScript_Y_Entorno_de_Desarrollo/commit/HEAD"
+    },
+    "stats": {
+      "total": 29,
+      "additions": 28,
       "deletions": 1,
       "date": "2026-08-19"
     },
