@@ -12,9 +12,15 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "227a6fe67448c0fa67e59f84d13cda4c45af7a09",
     "commitName": "Sin cambios",
     "commitTimestamp": 1787107933791,
     "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Funcional",
+    "commitTimestamp": 1787108087218,
+    "testId": 3
   }
 ]
