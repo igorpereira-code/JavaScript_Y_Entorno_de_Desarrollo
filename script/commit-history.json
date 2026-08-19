@@ -1,0 +1,40 @@
+[
+  {
+    "sha": "1e89b548b037e6c4ba4051e1dc6fe66a6808e8d6",
+    "author": "Igorito27",
+    "commit": {
+      "date": "2026-08-19T02:48:20.000Z",
+      "message": "Sin cambios",
+      "url": "https://github.com/igorpereira-code/JavaScript_Y_Entorno_de_Desarrollo/commit/1e89b548b037e6c4ba4051e1dc6fe66a6808e8d6"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 3,
+      "deletions": 1,
+      "date": "2026-08-19"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Igorito27",
+    "commit": {
+      "date": "2026-08-19T02:52:13.000Z",
+      "message": "Sin cambios",
+      "url": "https://github.com/igorpereira-code/JavaScript_Y_Entorno_de_Desarrollo/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2026-08-19"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
